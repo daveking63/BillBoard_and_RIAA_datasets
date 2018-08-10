@@ -34,6 +34,10 @@ While RIAA offers access to it's complete database, surfaces the means to query 
 <h3>Resulting Datasets</h3>
 
 To date, the end result is 5 csv files - 2 based on the Billboard charts and 3 on RIAA data. These are provided in this respository and briefly described below:
-
 <ul>
-<li>
+<li><b>BB-Top600_Songs.txt</b> -- Based on the single page chart of the Hot 600 songs of all time, the set includes: the rank of the song, the artist or group performing the song, the song title, the artists gender, the song's genre, the decade and year of the song, along with a count of 1 used for auditing purposes.</li><br>
+<li><b>BB-Top100_Artists_Attributes.txt</b> -- Based on the Chart-History for the lead artist of each song in the all-time Hot 100, the set includes info on the rank of the song (1 to 100), the complete list of artists and/or groups performing the song, the lead artist or group, the type of artist or group (single or group), the gender of the lead artist, the heritage (anglo, black, hispanic, or mixed), the title of the song, the year and decade of the song, the genre of the song, and the number of number 1s, top 10s, and top 100s of the lead artist or group.</li><br>
+<li><b>RIAA-Top100_Albums_Attributes.txt</b> -- </li><br>
+<li><b>RIAA-Top100_Artists_All_Certified_Albums_.txt</b> -- </li><br>
+ <li><b>RIAA-Top2507_Artists_Certified_Counts.txt</b> -- </li><br>
+</ul>
