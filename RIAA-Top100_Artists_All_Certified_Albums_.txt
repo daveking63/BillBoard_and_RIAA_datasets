@@ -1,4 +1,4 @@
-DispOrder,Artist,ArtistRank,Title,HighestCert,MinCertUnits,CertLevel,CertDate,CertYear,CertMonth,H,Count
+Album_Id,Artist,ArtistRank,Title,HighestCert,MinCertUnits,CertLevel,CertDate,CertYear,CertMonth,H,Count
 1,THE BEATLES,1,THE BEATLES,19X Multi-Platinum,19.0,Diamond,6-Feb-01,2001,Feb,Group,1
 2,THE BEATLES,1,THE BEATLES 1967 - 1970,17X Multi-Platinum,17.0,Diamond,27-Aug-10,2010,Aug,Group,1
 3,THE BEATLES,1,THE BEATLES 1962 - 1966,15X Multi-Platinum,15.0,Diamond,6-Feb-01,2001,Feb,Group,1
@@ -564,7 +564,7 @@ DispOrder,Artist,ArtistRank,Title,HighestCert,MinCertUnits,CertLevel,CertDate,Ce
 563,METALLICA,18,KILL 'EM ALL,3X Multi-Platinum,3.0,Multi-Platinum,9-Mar-99,1999,Mar,Group,1
 564,METALLICA,18,ST. ANGER,2X Multi-Platinum,2.0,Multi-Platinum,8-Jul-03,2003,Jul,Group,1
 565,METALLICA,18,DEATH MAGNETIC,2X Multi-Platinum,2.0,Multi-Platinum,28-Jun-10,2010,Jun,Group,1
-566,METALLICA,18,HARDWIRED…TO SELF-DESTRUCT,Platinum,1.0,Platinum,12-Apr-17,2017,Apr,Group,1
+566,METALLICA,18,HARDWIREDÂ…TO SELF-DESTRUCT,Platinum,1.0,Platinum,12-Apr-17,2017,Apr,Group,1
 567,METALLICA,18,GARAGE DAYS RE-REVISITED,Platinum,1.0,Platinum,23-Jul-90,1990,Jul,Group,1
 568,WHITNEY HOUSTON,19,THE BODYGUARD (SOUNDTRACK),18X Multi-Platinum,18.0,Diamond,17-Nov-17,2017,Nov,Solo,1
 569,WHITNEY HOUSTON,19,WHITNEY HOUSTON,13X Multi-Platinum,13.0,Diamond,29-Jul-99,1999,Jul,Solo,1
@@ -619,7 +619,7 @@ DispOrder,Artist,ArtistRank,Title,HighestCert,MinCertUnits,CertLevel,CertDate,Ce
 618,CELINE DION,22,TAKING CHANCES,Platinum,1.0,Platinum,28-Feb-08,2008,Feb,Solo,1
 619,CELINE DION,22,MIRACLE,Platinum,1.0,Platinum,14-Jan-05,2005,Jan,Solo,1
 620,CELINE DION,22,THE COLLECTOR'S SERIES VOLUME ONE,Gold,0.5,Gold,30-Jan-01,2001,Jan,Solo,1
-621,CELINE DION,22,NEW DAY…LIVE IN LAS VEGAS,Gold,0.5,Gold,21-Sep-04,2004,Sep,Solo,1
+621,CELINE DION,22,NEW DAYÂ…LIVE IN LAS VEGAS,Gold,0.5,Gold,21-Sep-04,2004,Sep,Solo,1
 622,NEIL DIAMOND,23,THE JAZZ SINGER (SOUNDTRACK),5X Multi-Platinum,5.0,Multi-Platinum,5-Dec-91,1991,Dec,Solo,1
 623,NEIL DIAMOND,23,HIS 12 GREATEST HITS,4X Multi-Platinum,4.0,Multi-Platinum,6-Aug-93,1993,Aug,Solo,1
 624,NEIL DIAMOND,23,12 GREATEST HITS VOLUME II,3X Multi-Platinum,3.0,Multi-Platinum,21-Oct-94,1994,Oct,Solo,1
@@ -685,7 +685,7 @@ DispOrder,Artist,ArtistRank,Title,HighestCert,MinCertUnits,CertLevel,CertDate,Ce
 684,KENNY G,25,GRAVITY,Platinum,1.0,Platinum,14-Feb-96,1996,Feb,Solo,1
 685,KENNY G,25,G-FORCE,Platinum,1.0,Platinum,30-Aug-94,1994,Aug,Solo,1
 686,KENNY G,25,CLASSICS IN THE KEY OF G,Platinum,1.0,Platinum,6-Jan-00,2000,Jan,Solo,1
-687,KENNY G,25,AT LAST…THE DUETS,Gold,0.5,Gold,6-Jan-05,2005,Jan,Solo,1
+687,KENNY G,25,AT LASTÂ…THE DUETS,Gold,0.5,Gold,6-Jan-05,2005,Jan,Solo,1
 688,KENNY G,25,WISHES,Gold,0.5,Gold,25-Nov-02,2002,Nov,Solo,1
 689,KENNY G,25,PARADISE,Gold,0.5,Gold,18-Oct-02,2002,Oct,Solo,1
 690,KENNY G,25,KENNY G,Gold,0.5,Gold,9-Dec-92,1992,Dec,Solo,1
@@ -937,7 +937,7 @@ DispOrder,Artist,ArtistRank,Title,HighestCert,MinCertUnits,CertLevel,CertDate,Ce
 936,ROD STEWART,40,TONIGHT I'M YOURS,Platinum,1.0,Platinum,28-Jan-82,1982,Jan,Solo,1
 937,ROD STEWART,40,EVERY PICTURE TELLS A STORY,Platinum,1.0,Platinum,27-Jan-95,1995,Jan,Solo,1
 938,ROD STEWART,40,THE VERY BEST OF ROD STEWART,Platinum,1.0,Platinum,3-May-04,2004,May,Solo,1
-939,ROD STEWART,40,THANKS FOR THE MEMORY…THE GREAT AMERICAN SONGBOOK VOL. 4,Platinum,1.0,Platinum,9-Dec-05,2005,Dec,Solo,1
+939,ROD STEWART,40,THANKS FOR THE MEMORYÂ…THE GREAT AMERICAN SONGBOOK VOL. 4,Platinum,1.0,Platinum,9-Dec-05,2005,Dec,Solo,1
 940,ROD STEWART,40,STARDUST. . . THE GREAT AMERICAN SONGBOOK VOL. 3,Platinum,1.0,Platinum,8-Nov-04,2004,Nov,Solo,1
 941,ROD STEWART,40,NEVER A DULL MOMENT,Gold,0.5,Gold,28-Jul-72,1972,Jul,Solo,1
 942,ROD STEWART,40,THE BEST OF ROD STEWART,Gold,0.5,Gold,25-May-78,1978,May,Solo,1
@@ -1367,7 +1367,7 @@ DispOrder,Artist,ArtistRank,Title,HighestCert,MinCertUnits,CertLevel,CertDate,Ce
 1366,BARRY MANILOW,70,A CHRISTMAS GIFT OF LOVE,Gold,0.5,Gold,13-Dec-02,2002,Dec,Solo,1
 1367,BARRY MANILOW,70,THE COMPLETE COLLECTION,Gold,0.5,Gold,24-May-02,2002,May,Solo,1
 1368,BARRY MANILOW,70,2:00 A.M. PARADISE CAFE,Gold,0.5,Gold,14-Jan-85,1985,Jan,Solo,1
-1369,JAY-Z,70,VOL 2…HARD KNOCK LIFE,5X Multi-Platinum,5.0,Multi-Platinum,15-May-00,2000,May,Solo,1
+1369,JAY-Z,70,VOL 2Â…HARD KNOCK LIFE,5X Multi-Platinum,5.0,Multi-Platinum,15-May-00,2000,May,Solo,1
 1370,JAY-Z,70,THE BLUEPRINT 2: THE GIFT AND THE CURSE,3X Multi-Platinum,3.0,Multi-Platinum,10-Dec-02,2002,Dec,Solo,1
 1371,JAY-Z,70,THE BLACK ALBUM,3X Multi-Platinum,3.0,Multi-Platinum,16-Aug-05,2005,Aug,Solo,1
 1372,JAY-Z,70,VOL. 3...LIFE AND TIMES OF S. CARTER,3X Multi-Platinum,3.0,Multi-Platinum,14-Feb-01,2001,Feb,Solo,1
