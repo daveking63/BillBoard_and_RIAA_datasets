@@ -1,0 +1,98 @@
+﻿DispOrd,Artist,Genre,Title ,Label ,Certified_M,Count
+1,MICHAEL JACKSON,pop,Thriller,Epic,33,1
+2,EAGLES,rock,Eagles/Their Greatest Hits 1971 - 1975,Rhino,29,1
+3,BILLY JOEL,rock,Greatest Hits Volume I & Volume Ii,Columbia,23,1
+4,LED ZEPPELIN,hard rock,Led Zeppelin IV,Atlantic,23,1
+5,PINK FLOYD,progressive rock,The Wall,Columbia,23,1
+6,AC/DC,hard rock,Back In Black,Epic,22,1
+7,GARTH BROOKS,country,Double Live,Capitol,21,1
+8,HOOTIE & THE BLOWFISH,roots rock,Cracked Rear View,Rhino,21,1
+9,FLEETWOOD MAC,pop rock,Rumours,Warner Bros.,20,1
+10,SHANIA TWAIN,country,Come On Over,Mercury,20,1
+11,THE BEATLES,rock,The Beatles,Apple,19,1
+12,GUNS N' ROSES,hard rock,Appetite For Destruction,Geffen,18,1
+13,WHITNEY HOUSTON,r&b,The Bodyguard (soundtrack),RCA,18,1
+14,BOSTON,hard rock,Boston,Epic,17,1
+15,ELTON JOHN,rock,Greatest Hits,Island,17,1
+16,GARTH BROOKS,country,No Fences,Capitol,17,1
+17,THE BEATLES,rock,The Beatles 1967 - 1970,Emi,17,1
+18,ALANIS MORISSETTE,country,Jagged Little Pill,Maverick,16,1
+19,BEE GEES,pop,Saturday Night Fever (soundtrack),Capitol,16,1
+20,EAGLES,rock,Hotel California,Rhino,16,1
+21,LED ZEPPELIN,hard rock,Physical Graffiti,Swan Song,16,1
+22,METALLICA,hard rock,Metallica,Atlantic,16,1
+23,BOB MARLEY & THE WAILERS,reggae,Legend,Island,15,1
+24,BRUCE SPRINGSTEEN,rock,Born In The U.S.A.,Columbia,15,1
+25,JOURNEY,hard rock,Greatest Hits,Columbia,15,1
+26,PINK FLOYD,progressive rock,Dark Side Of The Moon,Harvest,15,1
+27,SANTANA,latin rock,Supernatural,Arista,15,1
+28,THE BEATLES,rock,The Beatles 1962 - 1966,Apple,15,1
+29,ADELE,pop,21,Columbia,14,1
+30,BACKSTREET BOYS,pop,Backstreet Boys,Jive,14,1
+31,BRITNEY SPEARS,pop,…Baby One More Time,Jive,14,1
+32,GARTH BROOKS,country,Ropin' The Wind,Capitol,14,1
+33,MEAT LOAF,r&b,Bat Out Of Hell,Epic,14,1
+34,SIMON & GARFUNKEL,folk rock,Simon & Garfunkel's Greatest Hits,Columbia,14,1
+35,STEVE MILLER BAND,country rock,Greatest Hits 1974-1978,Capitol,14,1
+36,BACKSTREET BOYS,pop,Millennium,Jive,13,1
+37,BRUCE SPRINGSTEEN,rock,Bruce Springsteen & E Street Band Live 1975 - '85,Columbia,13,1
+38,PEARL JAM,hard rock,Ten,Epic,13,1
+39,PRINCE & THE REVOLUTION,funk rock,Purple Rain (soundtrack),Warner Bros.,13,1
+40,WHITNEY HOUSTON,r&b,Whitney Houston,Arista,13,1
+41,BON JOVI,hard rock,Slippery When Wet,Mercury,12,1
+42,BOYZ II MEN,r&b,II,Motown,12,1
+43,DEF LEPPARD,hard rock,Hysteria,Mercury,12,1
+44,DIXIE CHICKS,country,Wide Open Spaces,Monument,12,1
+45,JEWEL,hip hop,Pieces Of You,Atlantic,12,1
+46,KENNY G,easy listening,Breathless,Arista,12,1
+47,KENNY ROGERS,country,Kenny Rogers' Greatest Hits,Liberty,12,1
+48,LED ZEPPELIN,hard rock,Led Zeppelin II,Atlantic,12,1
+49,MATCHBOX TWENTY,alternative rock,Yourself Or Someone Like You,Atlantic,12,1
+50,PHIL COLLINS,pop,No Jacket Required,Atlantic,12,1
+51,SHANIA TWAIN,country,The Woman In Me,Mercury,12,1
+52,THE BEATLES,rock,Abbey Road,Apple,12,1
+53,THE ROLLING STONES,rock,Hot Rocks,London,12,1
+54,TOM PETTY & THE HEARTBREAKERS,rock,Greatest Hits,Interscope,12,1
+55,'N SYNC,pop,No Strings Attached,Jive,11,1
+56,ADELE,pop,25,Columbia,11,1
+57,AEROSMITH,hard rock,Aerosmith's Greatest Hits,Columbia,11,1
+58,CELINE DION,pop,Falling Into You,550 Music,11,1
+59,CREED,post-grunge,Human Clay,Wind-up Records,11,1
+60,EAGLES,rock,Eagles Greatest Hits Volume II,Asylum,11,1
+61,JAMES TAYLOR,folk rock,James Taylor's Greatest Hits,Warner Bros.,11,1
+62,KID ROCK,rock,Devil Without A Cause,Lava,11,1
+63,LED ZEPPELIN,hard rock,Houses Of The Holy,Atlantic,11,1
+64,LINKIN PARK,alternative rock,Hybrid Theory,Warner Bros.,11,1
+65,NOTORIOUS B.I.G.,hip hop,Life After Death,Rhino,11,1
+66,OUTKAST,hip hop,Speakerboxxx / The Love Below,So So Def,11,1
+67,SHANIA TWAIN,country,Up!,Mercury,11,1
+68,THE BEATLES,rock,Sgt. Pepper's Lonely Hearts Club Band,Capitol,11,1
+69,THE BEATLES,rock,1,Capitol,11,1
+70,TLC,country,Crazysexycool,Laface,11,1
+71,'N SYNC,pop,'n Sync,RCA,10,1
+72,2 PAC,hip hop,All Eyez On Me,Interscope,10,1
+73,2 PAC,hip hop,Greatest Hits,Interscope,10,1
+74,BEASTIE BOYS,hip ho[,Licensed To Ill,Def Jam,10,1
+75,BILLY JOEL,rock,The Stranger,Columbia,10,1
+76,BOB SEGER & THE SILVER BULLET BAND,rock,Greatest Hits,Capitol,10,1
+77,BRITNEY SPEARS,pop,Oops!..IDid It Again,Jive,10,1
+78,CAROLE KING,pop,Tapestry,Ode,10,1
+79,CELINE DION,pop,Let's Talk About Love,550 Music,10,1
+80,CREEDENCE CLEARWATER REVIVAL,country rock,Chronicle: 20 Greatest Hits,Fantasy,10,1
+81,DEF LEPPARD,hard rock,Pyromania,Mercury,10,1
+82,DIXIE CHICKS,country,Fly,Monument,10,1
+83,DOOBIE BROTHERS,country,Best Of The Doobies,Warner Bros.,10,1
+84,ELVIS PRESLEY,rock & roll,Elvis' Christmas Album,RCA,10,1
+85,EMINEM,hip hop,The Marshall Mathers Lp,Interscope,10,1
+86,EMINEM,hip hop,The Eminem Show,Interscope,10,1
+87,ERIC CLAPTON,rock,Unplugged,Reprise,10,1
+88,GARTH BROOKS,country,Sevens,Capitol,10,1
+89,GARTH BROOKS,country,The Hits,Liberty,10,1
+90,GARTH BROOKS,country,The Ultimate Hits,Pearl Records,10,1
+91,GARTH BROOKS,country,Garth Brooks,Capitol,10,1
+92,GEORGE MICHAEL,country,Faith,Columbia,10,1
+93,GREEN DAY,punk rock,Dookie,Reprise,10,1
+94,HAMMER,hip hop,Please Hammer Don't Hurt 'em,Capitol,10,1
+95,LED ZEPPELIN,hard rock,Led Zeppelin,Atlantic,10,1
+96,LIONEL RICHIE,r&b,Can't Slow Down,Motown,10,1
+97,MADONNA,pop,Like A Virgin,Sire,10,1

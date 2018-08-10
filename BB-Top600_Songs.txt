@@ -1,0 +1,601 @@
+﻿Rank,Artist,SongTitle,Gender,Genre,Decade,DecYear,Count
+1,Chubby Checker,THE TWIST,Male,R&B,60s,1960,1
+2,Santana Featuring Rob Thomas,SMOOTH,Duo/Group,Rock,90s,1990,1
+3,Bobby Darin,MACK THE KNIFE,Male,Pop,50s,1950,1
+4,Mark Ronson Featuring Bruno Mars,UPTOWN FUNK!,Male,Pop,10s,2010,1
+5,LeAnn Rimes,HOW DO I LIVE,Female,Country,90s,1990,1
+6,LMFAO Featuring Lauren Bennett & GoonRock,PARTY ROCK ANTHEM,Duo/Group,Dance/Electronic,10s,2010,1
+7,The Black Eyed Peas,I GOTTA FEELING,Duo/Group,Pop,00s,2000,1
+8,Los Del Rio,MACARENA (BAYSIDE BOYS MIX),Duo/Group,Latin,90s,1990,1
+9,Ed Sheeran,SHAPE OF YOU,Male,Pop,10s,2010,1
+10,Olivia Newton-John,PHYSICAL,Female,Pop,80s,1980,1
+11,Debby Boone,YOU LIGHT UP MY LIFE,Female,Country,70s,1970,1
+12,The Beatles,HEY JUDE,Duo/Group,Rock,60s,1960,1
+13,The Chainsmokers Featuring Halsey,CLOSER,Duo/Group,Dance/Electronic,10s,2010,1
+14,Mariah Carey,WE BELONG TOGETHER,Female,R&B,00s,2000,1
+15,Toni Braxton,UN-BREAK MY HEART,Female,R&B,90s,1990,1
+16,Usher Featuring Lil Jon & Ludacris,YEAH!,Male,R&B,00s,2000,1
+17,Kim Carnes,BETTE DAVIS EYES,Female,Pop,80s,1980,1
+18,Diana Ross & Lionel Richie,ENDLESS LOVE,Male/Female,R&B,80s,1980,1
+19,Rod Stewart,TONIGHT'S THE NIGHT (GONNA BE ALRIGHT),Male,Rock,70s,1970,1
+20,Jewel,FOOLISH GAMES/YOU WERE MEANT FOR ME,Female,Pop,90s,1990,1
+21,Bryan Adams,(EVERYTHING I DO) I DO IT FOR YOU,Male,Pop,90s,1990,1
+22,Boyz II Men,I'LL MAKE LOVE TO YOU,Duo/Group,R&B,90s,1990,1
+23,Percy Faith And His Orchestra,THE THEME FROM A SUMMER PLACE,Male,Pop,60s,1960,1
+24,Chic,LE FREAK,Duo/Group,Dance/Electronic,70s,1970,1
+25,Bee Gees,HOW DEEP IS YOUR LOVE,Duo/Group,Pop,70s,1970,1
+26,Survivor,EYE OF THE TIGER,Duo/Group,Rock,80s,1980,1
+27,Rihanna Featuring Calvin Harris,WE FOUND LOVE,Female,Pop,10s,2010,1
+28,Flo Rida Featuring T-Pain,LOW,Male,Hip-Hop/Rap,00s,2000,1
+29,Andy Gibb,I JUST WANT TO BE YOUR EVERYTHING,Male,Pop,70s,1970,1
+30,Next,TOO CLOSE,Duo/Group,R&B,90s,1990,1
+31,The Police,EVERY BREATH YOU TAKE,Duo/Group,Rock,80s,1980,1
+32,Gotye Featuring Kimbra,SOMEBODY THAT I USED TO KNOW,Male,Rock,10s,2010,1
+33,Luis Fonsi & Daddy Yankee Featuring Justin Bieber,DESPACITO,Male,Latin,10s,2010,1
+34,Irene Cara,FLASHDANCE...WHAT A FEELING,Female,Pop,80s,1980,1
+35,Adele,ROLLING IN THE DEEP,Female,Pop,10s,2010,1
+36,Bobby Lewis,TOSSIN' AND TURNIN',Male,R&B,60s,1960,1
+37,Johnny Horton,THE BATTLE OF NEW ORLEANS,Male,Rock,50s,1950,1
+38,Mariah Carey & Boyz II Men,ONE SWEET DAY,Female/Duo/Group,R&B,90s,1990,1
+39,Savage Garden,TRULY MADLY DEEPLY,Duo/Group,Pop,90s,1990,1
+40,Wings,SILLY LOVE SONGS,Duo/Group,Rock,70s,1970,1
+41,Marvin Gaye,LET'S GET IT ON,Male,R&B,70s,1970,1
+42,Bee Gees,NIGHT FEVER,Duo/Group,Dance/Electronic,70s,1970,1
+43,Queen,ANOTHER ONE BITES THE DUST,Duo/Group,Rock,80s,1980,1
+44,Paul McCartney And Michael Jackson,SAY SAY SAY,Male,Pop,80s,1980,1
+45,Nickelback,HOW YOU REMIND ME,Duo/Group,Rock,00s,2000,1
+46,Dawn Featuring Tony Orlando,TIE A YELLOW RIBBON ROUND THE OLE OAK TREE,Duo/Group,Pop,70s,1970,1
+47,Tommy Edwards,IT'S ALL IN THE GAME,Male,R&B,50s,1950,1
+48,The Beatles,I WANT TO HOLD YOUR HAND,Duo/Group,Rock,60s,1960,1
+49,Andy Gibb,SHADOW DANCING,Male,Pop,70s,1970,1
+50,Carly Rae Jepsen,CALL ME MAYBE,Female,Pop,10s,2010,1
+51,Robin Thicke Featuring T.I. + Pharrell,BLURRED LINES,Male,R&B,10s,2010,1
+52,Elton John,CANDLE IN THE WIND 1997/SOMETHING ABOUT THE WAY YOU LOOK TONIGHT,Male,Pop,90s,1990,1
+53,Alicia Keys,NO ONE,Female,R&B,00s,2000,1
+54,Whitney Houston,I WILL ALWAYS LOVE YOU,Female,R&B,90s,1990,1
+55,Boyz II Men,END OF THE ROAD,Duo/Group,R&B,90s,1990,1
+56,The Black Eyed Peas,BOOM BOOM POW,Duo/Group,Pop,00s,2000,1
+57,Blondie,CALL ME,Duo/Group,Rock,80s,1980,1
+58,Mario,LET ME LOVE YOU,Male,R&B,00s,2000,1
+59,Bee Gees,STAYIN' ALIVE,Duo/Group,Dance/Electronic,70s,1970,1
+60,Kenny Rogers,LADY,Male,Country,80s,1980,1
+61,Ke$ha,TIK TOK,Female,Pop,10s,2010,1
+62,The Monkees,I'M A BELIEVER,Duo/Group,Pop,60s,1960,1
+63,Kanye West Featuring Jamie Foxx,GOLD DIGGER,Male,Hip-Hop/Rap,00s,2000,1
+64,Timbaland Featuring OneRepublic,APOLOGIZE,Male,Pop,00s,2000,1
+65,Ace Of Base,THE SIGN,Duo/Group,Pop,90s,1990,1
+66,The J. Geils Band,CENTERFOLD,Duo/Group,Rock,80s,1980,1
+67,Meghan Trainor,ALL ABOUT THAT BASS,Female,Pop,10s,2010,1
+68,John Lennon,(JUST LIKE) STARTING OVER,Male,Rock,80s,1980,1
+69,Lorde,ROYALS,Female,Rock,10s,2010,1
+70,Brandy & Monica,THE BOY IS MINE,Female,R&B,90s,1990,1
+71,Stevie B,BECAUSE I LOVE YOU (THE POSTMAN SONG),Male,Pop,90s,1990,1
+72,Joan Jett & the Blackhearts,I LOVE ROCK 'N ROLL,Duo/Group,Rock,80s,1980,1
+73,The 5th Dimension,AQUARIUS/LET THE SUNSHINE IN,Duo/Group,Pop,60s,1960,1
+74,Tag Team,WHOOMP! (THERE IT IS),Duo/Group,Hip-Hop/Rap,90s,1990,1
+75,Maroon 5 Featuring Christina Aguilera,MOVES LIKE JAGGER,Duo/Group,Pop,10s,2010,1
+76,Paul McCartney And Stevie Wonder,EBONY AND IVORY,Male,Pop,80s,1980,1
+77,Paula Abdul,RUSH RUSH,Female,Pop,90s,1990,1
+78,Dionne & Friends,THAT'S WHAT FRIENDS ARE FOR,Duo/Group,R&B,80s,1980,1
+79,PHARRELL,HAPPY,Male,R&B,10s,2010,1
+80,Diana Ross,UPSIDE DOWN,Female,Dance/Electronic,80s,1980,1
+81,The Archies,SUGAR  SUGAR,Duo/Group,Pop,60s,1960,1
+82,Bruno Mars,JUST THE WAY YOU ARE,Male,Pop,10s,2010,1
+83,Nelly Featuring Kelly Rowland,DILEMMA,Male,Hip-Hop/Rap,00s,2000,1
+84,Marvin Gaye,I HEARD IT THROUGH THE GRAPEVINE,Male,R&B,60s,1960,1
+85,Shania Twain,YOU'RE STILL THE ONE,Female,Country,90s,1990,1
+86,Michael Jackson,BILLIE JEAN,Male,R&B,80s,1980,1
+87,Donna Summer,HOT STUFF,Female,Dance/Electronic,70s,1970,1
+88,Post Malone Featuring 21 Savage,ROCKSTAR,Male,Hip-Hop/Rap,10s,2010,1
+89,Coolio Featuring L.V.,GANGSTA'S PARADISE,Male,Hip-Hop/Rap,90s,1990,1
+90,The Steve Miller Band,ABRACADABRA,Duo/Group,Rock,80s,1980,1
+91,Ed Sheeran,PERFECT,Male,Pop,10s,2010,1
+92,Carly Simon,YOU'RE SO VAIN,Female,Pop,70s,1970,1
+93,Wild Cherry,PLAY THAT FUNKY MUSIC,Duo/Group,R&B,70s,1970,1
+94,Lionel Richie,SAY YOU  SAY ME,Male,R&B,80s,1980,1
+95,The Knack,MY SHARONA,Duo/Group,Rock,70s,1970,1
+96,Lionel Richie,ALL NIGHT LONG (ALL NIGHT),Male,R&B,80s,1980,1
+97,Sinead O'Connor,NOTHING COMPARES 2 U,Female,Rock,90s,1990,1
+98,All-4-One,I SWEAR,Duo/Group,R&B,90s,1990,1
+99,Mary J. Blige,FAMILY AFFAIR,Female,R&B,00s,2000,1
+100,Foreigner,WAITING FOR A GIRL LIKE YOU,Duo/Group,Rock,80s,1980,1
+101,Elvis Presley With The Jordanaires,ARE YOU LONESOME TO-NIGHT?,Male,Rock,60s,1960,1
+102,Roberta Flack,KILLING ME SOFTLY WITH HIS SONG,Female,R&B,70s,1970,1
+103,Wiz Khalifa Featuring Charlie Puth,SEE YOU AGAIN,Male,Hip-Hop/Rap,10s,2010,1
+104,John Cougar,HURTS SO GOOD,Male,Rock,80s,1980,1
+105,Puff Daddy & Faith Evans Featuring 112,I'LL BE MISSING YOU,Male/Female,Hip-Hop/Rap,90s,1990,1
+106,Katy Perry Featuring Juicy J,DARK HORSE,Female,Pop,10s,2010,1
+107,B.J. Thomas,RAINDROPS KEEP FALLIN' ON MY HEAD,Male,Pop,70s,1970,1
+108,Macklemore & Ryan Lewis Featuring Wanz,THRIFT SHOP,Duo/Group,Hip-Hop/Rap,10s,2010,1
+109,Phil Collins,ANOTHER DAY IN PARADISE,Male,Rock,80s,1980,1
+110,Maroon 5,ONE MORE NIGHT,Duo/Group,Pop,10s,2010,1
+111,The Emotions,BEST OF MY LOVE,Duo/Group,R&B,70s,1970,1
+112,fun. Featuring Janelle Monae,WE ARE YOUNG,Duo/Group,Rock,10s,2010,1
+113,Bruno Mars,THAT'S WHAT I LIKE,Male,R&B,10s,2010,1
+114,Usher,YOU MAKE ME WANNA...,Male,R&B,90s,1990,1
+115,Fergie,BIG GIRLS DON'T CRY,Female,Pop,00s,2000,1
+116,Barbra Streisand,THE WAY WE WERE,Female,Pop,70s,1970,1
+117,Real McCoy,ANOTHER NIGHT,Duo/Group,Dance/Electronic,90s,1990,1
+118,Elvis Presley With The Jordanaires,IT'S NOW OR NEVER,Male,Rock,60s,1960,1
+119,Captain & Tennille,DO THAT TO ME ONE MORE TIME,Duo/Group,Pop,80s,1980,1
+120,Walter Murphy & The Big Apple Band,A FIFTH OF BEETHOVEN,Duo/Group,Dance/Electronic,70s,1970,1
+121,Madonna,LIKE A VIRGIN,Female,Pop,80s,1980,1
+122,Santana Featuring The Product G&B,MARIA MARIA,Duo/Group,R&B,00s,2000,1
+123,Prince,WHEN DOVES CRY,Male,R&B,80s,1980,1
+124,Gloria Gaynor,I WILL SURVIVE,Female,Dance/Electronic,70s,1970,1
+125,Ray Charles,I CAN'T STOP LOVING YOU,Male,R&B,60s,1960,1
+126,Usher,U GOT IT BAD,Male,R&B,00s,2000,1
+127,T.I.,WHATEVER YOU LIKE,Male,Hip-Hop/Rap,00s,2000,1
+128,Jay Sean Featuring Lil Wayne,DOWN,Male,Pop,00s,2000,1
+129,Leona Lewis,BLEEDING LOVE,Female,Pop,00s,2000,1
+130,Three Dog Night,JOY TO THE WORLD,Duo/Group,Rock,70s,1970,1
+131,Destiny's Child,INDEPENDENT WOMEN PART I,Duo/Group,R&B,00s,2000,1
+132,Ashanti,FOOLISH,Female,R&B,00s,2000,1
+133,Daryl Hall John Oates,MANEATER,Duo/Group,Pop,80s,1980,1
+134,Paul McCartney And Wings,MY LOVE,Duo/Group,Rock,70s,1970,1
+135,The Weeknd,THE HILLS,Male,R&B,10s,2010,1
+136,The Tony Rich Project,NOBODY KNOWS,Male,R&B,90s,1990,1
+137,Gilbert O'Sullivan,ALONE AGAIN (NATURALLY),Male,Pop,70s,1970,1
+138,John Legend,ALL OF ME,Male,R&B,10s,2010,1
+139,Taylor Swift,SHAKE IT OFF,Female,Pop,10s,2010,1
+140,Roberta Flack,THE FIRST TIME EVER I SAW YOUR FACE,Female,R&B,70s,1970,1
+141,Drake Featuring WizKid & Kyla,ONE DANCE,Male,Hip-Hop/Rap,10s,2010,1
+142,Imagine Dragons,RADIOACTIVE,Duo/Group,Rock,10s,2010,1
+143,LMFAO,SEXY AND I KNOW IT,Duo/Group,Dance/Electronic,10s,2010,1
+144,Adele,SOMEONE LIKE YOU,Female,Pop,10s,2010,1
+145,OutKast,HEY YA!,Duo/Group,R&B,00s,2000,1
+146,Pink Floyd,ANOTHER BRICK IN THE WALL (PART II),Duo/Group,Rock,80s,1980,1
+147,Usher,BURN,Male,R&B,00s,2000,1
+148,OutKast Featuring Sleepy Brown,THE WAY YOU MOVE,Duo/Group,Hip-Hop/Rap,00s,2000,1
+149,Drake,GOD'S PLAN,Male,Hip-Hop/Rap,10s,2010,1
+150,George Michael,FAITH,Male,Pop,80s,1980,1
+151,Soulja Boy Tell'em,CRANK THAT (SOULJA BOY),Male,Hip-Hop/Rap,00s,2000,1
+152,Celine Dion,BECAUSE YOU LOVED ME,Female,Pop,90s,1990,1
+153,50 Cent,IN DA CLUB,Male,Hip-Hop/Rap,00s,2000,1
+154,Frankie Avalon,VENUS,Male,Pop,50s,1950,1
+155,OneRepublic,COUNTING STARS,Duo/Group,Pop,10s,2010,1
+156,Queen,CRAZY LITTLE THING CALLED LOVE,Duo/Group,Rock,80s,1980,1
+157,Glen Campbell,RHINESTONE COWBOY,Male,Country,70s,1970,1
+158,Faith Hill,BREATHE,Female,Country,00s,2000,1
+159,Brenda Lee,I'M SORRY,Female,Pop,60s,1960,1
+160,Beyonce,IRREPLACEABLE,Female,R&B,00s,2000,1
+161,Bonnie Tyler,TOTAL ECLIPSE OF THE HEART,Female,Pop,80s,1980,1
+162,Wham! Featuring George Michael,CARELESS WHISPER,Duo/Group,Pop,80s,1980,1
+163,Exile,KISS YOU ALL OVER,Duo/Group,Pop,70s,1970,1
+164,Lifehouse,HANGING BY A MOMENT,Duo/Group,Rock,00s,2000,1
+165,The Bangles,WALK LIKE AN EGYPTIAN,Duo/Group,Pop,80s,1980,1
+166,Katy Perry Featuring Kanye West,E.T.,Female,Pop,10s,2010,1
+167,Domenico Modugno,NEL BLU DIPINTO DI BLU (VOLARÉ),Male,Pop,50s,1950,1
+168,The Teddy Bears,TO KNOW HIM  IS TO LOVE HIM,Duo/Group,Pop,50s,1950,1
+169,Eminem,LOSE YOURSELF,Male,Hip-Hop/Rap,00s,2000,1
+170,Jackson 5,I'LL BE THERE,Duo/Group,R&B,70s,1970,1
+171,Alicia Keys,FALLIN',Female,R&B,00s,2000,1
+172,TLC,CREEP,Duo/Group,R&B,90s,1990,1
+173,Barbra Streisand,LOVE THEME FROM A STAR IS BORN (EVERGREEN),Female,Pop,70s,1970,1
+174,Paul Mauriat And His Orchestra,LOVE IS BLUE (L'AMOUR EST BLEU),Male,Pop,60s,1960,1
+175,Rick Dees & His Cast Of Idiots,DISCO DUCK (PART I),Male,Pop,70s,1970,1
+176,Jennifer Lopez Featuring Ja Rule,I'M REAL,Female,Pop,00s,2000,1
+177,Ciara Featuring Petey Pablo,GOODIES,Female,R&B,00s,2000,1
+178,Louis Armstrong And The All Stars,HELLO  DOLLY!,Male,Jazz,60s,1960,1
+179,The Human League,DON'T YOU WANT ME,Duo/Group,Dance/Electronic,80s,1980,1
+180,Rod Stewart,DA YA THINK I'M SEXY?,Male,Pop,70s,1970,1
+181,TLC,WATERFALLS,Duo/Group,R&B,90s,1990,1
+182,Rod Stewart,MAGGIE MAY/REASON TO BELIEVE,Male,Rock,70s,1970,1
+183,The 4 Seasons,BIG GIRLS DON'T CRY,Duo/Group,Pop,60s,1960,1
+184,Nelly,HOT IN HERRE,Male,Hip-Hop/Rap,00s,2000,1
+185,Barry Manilow,I WRITE THE SONGS,Male,Pop,70s,1970,1
+186,Rick Springfield,JESSIE'S GIRL,Male,Pop,80s,1980,1
+187,C+C Music Factory,GONNA MAKE YOU SWEAT (EVERYBODY DANCE NOW),Duo/Group,Dance/Electronic,90s,1990,1
+188,A Taste Of Honey,BOOGIE OOGIE OOGIE,Duo/Group,Dance/Electronic,70s,1970,1
+189,Barbra Streisand,WOMAN IN LOVE,Female,Pop,80s,1980,1
+190,Fetty Wap,TRAP QUEEN,Male,Hip-Hop/Rap,10s,2010,1
+191,Chris Brown,RUN IT!,Male,R&B,00s,2000,1
+192,The Elton John Band,PHILADELPHIA FREEDOM,Duo/Group,Pop,70s,1970,1
+193,Justin Bieber,LOVE YOURSELF,Male,Pop,10s,2010,1
+194,Jimmy Gilmer And The Fireballs,SUGAR SHACK,Duo/Group,Pop,60s,1960,1
+195,The Rolling Stones,HONKY TONK WOMEN,Duo/Group,Rock,60s,1960,1
+196,Lady Gaga Featuring Colby O'Donis,JUST DANCE,Female,Pop,00s,2000,1
+197,Madonna,VOGUE,Female,Pop,90s,1990,1
+198,The Kingston Trio,TOM DOOLEY,Duo/Group,Pop,50s,1950,1
+199,Mariah Carey,LOVE TAKES TIME,Female,R&B,90s,1990,1
+200,Usher And Alicia Keys,MY BOO,Male/Female,R&B,00s,2000,1
+201,Eddie Kendricks,KEEP ON TRUCKIN' (PART 1),Male,R&B,70s,1970,1
+202,T.I. Featuring Rihanna,LIVE YOUR LIFE,Male,Hip-Hop/Rap,00s,2000,1
+203,Otis Redding,(SITTIN' ON) THE DOCK OF THE BAY,Male,R&B,60s,1960,1
+204,Beyonce Featuring Sean Paul,BABY BOY,Female,R&B,00s,2000,1
+205,Katy Perry,FIREWORK,Female,Pop,10s,2010,1
+206,Lil Wayne Featuring Static Major,LOLLIPOP,Male,Hip-Hop/Rap,00s,2000,1
+207,Elton John,CROCODILE ROCK,Male,Pop,70s,1970,1
+208,Roxette,IT MUST HAVE BEEN LOVE,Duo/Group,Pop,90s,1990,1
+209,Mariah Carey,VISION OF LOVE,Female,R&B,90s,1990,1
+210,Don McLean,AMERICAN PIE (PARTS I & II),Male,Rock,70s,1970,1
+211,The Platters,SMOKE GETS IN YOUR EYES,Duo/Group,R&B,50s,1950,1
+212,Donna Summer,BAD GIRLS,Female,Dance/Electronic,70s,1970,1
+213,Chicago,HARD TO SAY I'M SORRY,Duo/Group,Pop,80s,1980,1
+214,Jimmy Dean,BIG BAD JOHN,Male,Country,60s,1960,1
+215,Jim Reeves,HE'LL HAVE TO GO,Male,Country,60s,1960,1
+216,Janet Jackson,MISS YOU MUCH,Female,R&B,80s,1980,1
+217,Pitbull Featuring Ne-Yo  Afrojack & Nayer,GIVE ME EVERYTHING,Male,Pop,10s,2010,1
+218,KC And The Sunshine Band,(SHAKE  SHAKE SHAKE) SHAKE YOUR BOOTY,Duo/Group,Dance/Electronic,70s,1970,1
+219,Men At Work,DOWN UNDER,Duo/Group,Rock,80s,1980,1
+220,Terry Jacks,SEASONS IN THE SUN,Male,Pop,70s,1970,1
+221,USA For Africa,WE ARE THE WORLD,Duo/Group,Pop,80s,1980,1
+222,Lulu,TO SIR WITH LOVE,Female,Pop,60s,1960,1
+223,Lady Antebellum,NEED YOU NOW,Duo/Group,Country,10s,2010,1
+224,Bruno Mars,LOCKED OUT OF HEAVEN,Male,Pop,10s,2010,1
+225,The Everly Brothers,CATHY'S CLOWN,Duo/Group,R&B,60s,1960,1
+226,John Cougar,JACK & DIANE,Male,Rock,80s,1980,1
+227,Van Halen,JUMP,Duo/Group,Rock,80s,1980,1
+228,Wilson Phillips,HOLD ON,Duo/Group,Pop,90s,1990,1
+229,Simon & Garfunkel,BRIDGE OVER TROUBLED WATER,Duo/Group,Rock,70s,1970,1
+230,Dawn,KNOCK THREE TIMES,Duo/Group,Pop,70s,1970,1
+231,The Fleetwoods,MR. BLUE,Duo/Group,Pop,50s,1950,1
+232,Color Me Badd,I WANNA SEX YOU UP,Duo/Group,R&B,90s,1990,1
+233,Eminem Featuring Rihanna,LOVE THE WAY YOU LIE,Male,Hip-Hop/Rap,10s,2010,1
+234,Timmy T.,ONE MORE TRY,Male,Pop,90s,1990,1
+235,Paul Anka,LONELY BOY,Male,Pop,50s,1950,1
+236,Ed Sheeran,THINKING OUT LOUD,Male,Pop,10s,2010,1
+237,Boyz II Men,ON BENDED KNEE,Duo/Group,R&B,90s,1990,1
+238,Kenny Rogers Duet With Dolly Parton,ISLANDS IN THE STREAM,Male/Female,Country,80s,1980,1
+239,Justin Bieber,SORRY,Male,Pop,10s,2010,1
+240,Bobby Goldsboro,HONEY,Male,Country,60s,1960,1
+241,Paul McCartney And Wings,COMING UP (LIVE AT GLASGOW),Duo/Group,Rock,80s,1980,1
+242,John Denver,I'M SORRY,Male,Country,70s,1970,1
+243,Toni Braxton,YOU'RE MAKIN' ME HIGH/LET IT FLOW,Female,R&B,90s,1990,1
+244,Joey Dee & the Starliters,PEPPERMINT TWIST - PART I,Duo/Group,Pop,60s,1960,1
+245,Katy Perry Featuring Snoop Dogg,CALIFORNIA GURLS,Female,Pop,10s,2010,1
+246,Christopher Cross,ARTHUR'S THEME (BEST THAT YOU CAN DO),Male,Pop,80s,1980,1
+247,Elton John & Kiki Dee,DON'T GO BREAKING MY HEART,Male/Female,Pop,70s,1970,1
+248,The Manhattans,KISS AND SAY GOODBYE,Duo/Group,R&B,70s,1970,1
+249,Beyonce Featuring Jay Z,CRAZY IN LOVE,Female,R&B,00s,2000,1
+250,Carole King,IT'S TOO LATE/I FEEL THE EARTH MOVE,Female,Pop,70s,1970,1
+251,Mr. Mister,BROKEN WINGS,Duo/Group,Rock,80s,1980,1
+252,Bette Midler,FROM A DISTANCE,Female,Pop,90s,1990,1
+253,Taio Cruz,DYNAMITE,Male,Pop,10s,2010,1
+254,Heart,ALONE,Duo/Group,Rock,80s,1980,1
+255,Carpenters,(THEY LONG TO BE) CLOSE TO YOU,Duo/Group,Pop,70s,1970,1
+256,Bobby Vinton,ROSES ARE RED (MY LOVE),Male,Pop,60s,1960,1
+257,REO Speedwagon,CAN'T FIGHT THIS FEELING,Duo/Group,Rock,80s,1980,1
+258,Gwen Stefani,HOLLABACK GIRL,Female,Pop,00s,2000,1
+259,Captain & Tennille,LOVE WILL KEEP US TOGETHER,Duo/Group,Pop,70s,1970,1
+260,Lloyd Price,STAGGER LEE,Male,R&B,50s,1950,1
+261,Poison,EVERY ROSE HAS ITS THORN,Duo/Group,Rock,80s,1980,1
+262,Ray Stevens,THE STREAK,Male,Country,70s,1970,1
+263,Mariah Carey,FANTASY,Female,R&B,90s,1990,1
+264,Whitney Houston,I WANNA DANCE WITH SOMEBODY (WHO LOVES ME),Female,R&B,80s,1980,1
+265,Daryl Hall John Oates,I CAN'T GO FOR THAT (NO CAN DO),Duo/Group,Pop,80s,1980,1
+266,Johnnie Taylor,DISCO LADY,Male,R&B,70s,1970,1
+267,Elton John,BENNIE AND THE JETS,Male,Rock,70s,1970,1
+268,Lady Gaga,POKER FACE,Female,Pop,00s,2000,1
+269,Ohio Players,LOVE ROLLERCOASTER,Duo/Group,R&B,70s,1970,1
+270,Bon Jovi,LIVIN' ON A PRAYER,Duo/Group,Rock,80s,1980,1
+271,Johnny Preston,RUNNING BEAR,Male,Pop,60s,1960,1
+272,Dire Straits,MONEY FOR NOTHING,Duo/Group,Rock,80s,1980,1
+273,Chicago,IF YOU LEAVE ME NOW,Duo/Group,Pop,70s,1970,1
+274,The Partridge Family Starring Shirley Jones Featuring David Cassidy,I THINK I LOVE YOU,Duo/Group,Pop,70s,1970,1
+275,EMF,UNBELIEVABLE,Duo/Group,Rock,90s,1990,1
+276,The Rascals,PEOPLE GOT TO BE FREE,Duo/Group,Rock,60s,1960,1
+277,Patti LaBelle & Michael McDonald,ON MY OWN,Male/Female,R&B,80s,1980,1
+278,Surface,THE FIRST TIME,Duo/Group,R&B,90s,1990,1
+279,Train,HEY  SOUL SISTER,Duo/Group,Pop,10s,2010,1
+280,Michael Jackson,BEAT IT,Male,R&B,80s,1980,1
+281,Andy Gibb,(LOVE IS) THICKER THAN WATER,Male,Pop,70s,1970,1
+282,Madonna,CRAZY FOR YOU,Female,Pop,80s,1980,1
+283,Bert Kaempfert And His Orchestra,WONDERLAND BY NIGHT,Male,Jazz,60s,1960,1
+284,Madonna,TAKE A BOW,Female,Pop,90s,1990,1
+285,Diana Ross & The Supremes,LOVE CHILD,Female/Duo/Group,R&B,60s,1960,1
+286,Puff Daddy (Featuring Mase),CAN'T NOBODY HOLD ME DOWN,Male,Hip-Hop/Rap,90s,1990,1
+287,3 Doors Down,KRYPTONITE,Duo/Group,Rock,00s,2000,1
+288,The Beatles,SHE LOVES YOU,Duo/Group,Rock,60s,1960,1
+289,Tina Turner,WHAT'S LOVE GOT TO DO WITH IT,Female,R&B,80s,1980,1
+290,Adele,HELLO,Female,Pop,10s,2010,1
+291,Elvis Presley With The Jordanaires,STUCK ON YOU,Male,Rock,60s,1960,1
+292,The Browns,THE THREE BELLS,Duo/Group,Country,50s,1950,1
+293,Jim Croce,BAD  BAD LEROY BROWN,Male,Rock,70s,1970,1
+294,Eagles,ONE OF THESE NIGHTS,Duo/Group,Rock,70s,1970,1
+295,Michael Jackson,ROCK WITH YOU,Male,R&B,80s,1980,1
+296,Extreme,MORE THAN WORDS,Duo/Group,Rock,90s,1990,1
+297,Gladys Knight And The Pips,MIDNIGHT TRAIN TO GEORGIA,Duo/Group,R&B,70s,1970,1
+298,Zager & Evans,IN THE YEAR 2525,Duo/Group,Rock,60s,1960,1
+299,Sly & The Family Stone,EVERYDAY PEOPLE,Duo/Group,R&B,60s,1960,1
+300,Janet Jackson,ESCAPADE,Female,R&B,90s,1990,1
+301,Phil Collins and Marilyn Martin,SEPARATE LIVES,Male/Female,Pop,80s,1980,1
+302,Foreigner,I WANT TO KNOW WHAT LOVE IS,Duo/Group,Rock,80s,1980,1
+303,Billy Joel,IT'S STILL ROCK AND ROLL TO ME,Male,Rock,80s,1980,1
+304,Peaches & Herb,REUNITED,Duo/Group,R&B,70s,1970,1
+305,BLACKstreet (Featuring Dr. Dre),NO DIGGITY,Duo/Group,R&B,90s,1990,1
+306,Chicago,LOOK AWAY,Duo/Group,Pop,80s,1980,1
+307,Conway Twitty,IT'S ONLY MAKE BELIEVE,Male,Pop,50s,1950,1
+308,Rihanna Featuring Drake,WORK,Female,R&B,10s,2010,1
+309,Nelly Furtado Featuring Timbaland,PROMISCUOUS,Male,Hip-Hop/Rap,00s,2000,1
+310,Bruno Mars,GRENADE,Male,Pop,10s,2010,1
+311,Tommy James And The Shondells,CRIMSON AND CLOVER,Duo/Group,Rock,60s,1960,1
+312,The Monkees,DAYDREAM BELIEVER,Duo/Group,Pop,60s,1960,1
+313,Kenny Loggins,FOOTLOOSE,Male,Pop,80s,1980,1
+314,Phil Collins,AGAINST ALL ODDS (TAKE A LOOK AT ME NOW),Male,Pop,80s,1980,1
+315,Commodores,THREE TIMES A LADY,Duo/Group,R&B,70s,1970,1
+316,KC And The Sunshine Band,THAT'S THE WAY (I LIKE IT),Duo/Group,Dance/Electronic,70s,1970,1
+317,Hi-Five,I LIKE THE WAY (THE KISSING GAME),Duo/Group,R&B,90s,1990,1
+318,Bell Biv DeVoe,POISON,Duo/Group,R&B,90s,1990,1
+319,Savage Garden,I KNEW I LOVED YOU,Duo/Group,Pop,00s,2000,1
+320,England Dan & John Ford Coley,I'D REALLY LOVE TO SEE YOU TONIGHT,Duo/Group,Pop,70s,1970,1
+321,Steve Winwood,ROLL WITH IT,Male,Rock,80s,1980,1
+322,Commodores,STILL,Duo/Group,R&B,70s,1970,1
+323,Bobbie Gentry,ODE TO BILLIE JOE,Female,Pop,60s,1960,1
+324,Player,BABY COME BACK,Duo/Group,Rock,70s,1970,1
+325,Paula Abdul,STRAIGHT UP,Female,Pop,80s,1980,1
+326,Jay-Z + Alicia Keys,EMPIRE STATE OF MIND,Male/Female,Hip-Hop/Rap,00s,2000,1
+327,The Beatles With Billy Preston,GET BACK,Duo/Group,Rock,60s,1960,1
+328,Avicii,WAKE ME UP!,Male,Dance/Electronic,10s,2010,1
+329,Cher,HALF-BREED,Female,Pop,70s,1970,1
+330,The New Vaudeville Band,WINCHESTER CATHEDRAL,Duo/Group,Pop,60s,1960,1
+331,George Harrison,MY SWEET LORD/ISN'T IT A PITY,Male,Rock,70s,1970,1
+332,UB40,CAN'T HELP FALLING IN LOVE,Duo/Group,Pop,90s,1990,1
+333,The Chainsmokers Featuring Daya,DON'T LET ME DOWN,Duo/Group,Dance/Electronic,10s,2010,1
+334,Camila Cabello Featuring Young Thug,HAVANA,Female,Pop,10s,2010,1
+335,Mariah Carey,EMOTIONS,Female,R&B,90s,1990,1
+336,Usher Featuring will.i.am,OMG,Male,R&B,10s,2010,1
+337,Terror Squad,LEAN BACK,Duo/Group,Hip-Hop/Rap,00s,2000,1
+338,Village People,Y.M.C.A.,Duo/Group,Dance/Electronic,70s,1970,1
+339,Creed,WITH ARMS WIDE OPEN,Duo/Group,Rock,00s,2000,1
+340,Anita Ward,RING MY BELL,Female,Dance/Electronic,70s,1970,1
+341,Diana Ross,LOVE HANGOVER,Female,R&B,70s,1970,1
+342,Kelly Clarkson,SINCE U BEEN GONE,Female,Pop,00s,2000,1
+343,Backstreet Boys,QUIT PLAYING GAMES (WITH MY HEART),Duo/Group,Pop,90s,1990,1
+344,TLC,NO SCRUBS,Duo/Group,R&B,90s,1990,1
+345,Tears For Fears,EVERYBODY WANTS TO RULE THE WORLD,Duo/Group,Rock,80s,1980,1
+346,The Rolling Stones,(I CAN'T GET NO) SATISFACTION,Duo/Group,Rock,60s,1960,1
+347,Chubby Checker,LIMBO ROCK,Male,R&B,60s,1960,1
+348,Mariah Carey,DREAMLOVER,Female,R&B,90s,1990,1
+349,Stories,BROTHER LOUIE,Duo/Group,Rock,70s,1970,1
+350,Snoop Dogg Featuring Pharrell,DROP IT LIKE IT'S HOT,Male,Hip-Hop/Rap,00s,2000,1
+351,Paula Abdul (Duet With The Wild Pair),OPPOSITES ATTRACT,Female,Pop,90s,1990,1
+352,Coldplay,VIVA LA VIDA,Duo/Group,Rock,00s,2000,1
+353,Iggy Azalea Featuring Charli XCX,FANCY,Female,Hip-Hop/Rap,10s,2010,1
+354,Billy Joel,WE DIDN'T START THE FIRE,Male,Rock,80s,1980,1
+355,The Weeknd,CAN'T FEEL MY FACE,Male,R&B,10s,2010,1
+356,Starship,NOTHING'S GONNA STOP US NOW,Duo/Group,Pop,80s,1980,1
+357,Rupert Holmes,ESCAPE (THE PINA COLADA SONG),Male,Pop,70s,1970,1
+358,Billy Preston,WILL IT GO ROUND IN CIRCLES,Male,R&B,70s,1970,1
+359,Sean Paul,GET BUSY,Male,Hip-Hop/Rap,00s,2000,1
+360,Mr. Acker Bilk,STRANGER ON THE SHORE,Male,Jazz,60s,1960,1
+361,Monica,THE FIRST NIGHT,Female,R&B,90s,1990,1
+362,Taylor Swift,YOU BELONG WITH ME,Female,Country,00s,2000,1
+363,Alicia Keys,IF I AIN'T GOT YOU,Female,R&B,00s,2000,1
+364,Del Shannon,RUNAWAY,Male,Rock,60s,1960,1
+365,U2,WITH OR WITHOUT YOU,Duo/Group,Rock,80s,1980,1
+366,Huey Lewis & The News,THE POWER OF LOVE,Duo/Group,Pop,80s,1980,1
+367,Whitney Houston,GREATEST LOVE OF ALL,Female,R&B,80s,1980,1
+368,Deborah Cox,NOBODY'S SUPPOSED TO BE HERE,Female,R&B,90s,1990,1
+369,SSgt Barry Sadler,THE BALLAD OF THE GREEN BERETS,Male,Country,60s,1960,1
+370,Stevie Wonder,I JUST CALLED TO SAY I LOVE YOU,Male,R&B,80s,1980,1
+371,Carpenters,TOP OF THE WORLD,Duo/Group,Pop,70s,1970,1
+372,Los Lobos,LA BAMBA,Duo/Group,Latin,80s,1980,1
+373,Keith Sweat,TWISTED,Male,R&B,90s,1990,1
+374,Jackson 5,DANCING MACHINE,Duo/Group,R&B,70s,1970,1
+375,Lipps  Inc.,FUNKYTOWN,Duo/Group,Dance/Electronic,80s,1980,1
+376,Olivia Newton-John,MAGIC,Female,Pop,80s,1980,1
+377,50 Cent Featuring Olivia,CANDY SHOP,Male,Hip-Hop/Rap,00s,2000,1
+378,Donna Lewis,I LOVE YOU ALWAYS FOREVER,Female,Pop,90s,1990,1
+379,Cher,BELIEVE,Female,Dance/Electronic,90s,1990,1
+380,Timbaland Featuring Keri Hilson,THE WAY I ARE,Male,R&B,00s,2000,1
+381,George Michael,ONE MORE TRY,Male,Pop,80s,1980,1
+382,Ray Parker Jr.,GHOSTBUSTERS,Male,Pop,80s,1980,1
+383,Connie Francis,MY HEART HAS A MIND OF ITS OWN,Female,Pop,60s,1960,1
+384,Seal,KISS FROM A ROSE,Male,Pop,90s,1990,1
+385,The 4 Seasons,DECEMBER  1963 (OH  WHAT A NIGHT),Duo/Group,Pop,70s,1970,1
+386,Laura Branigan,GLORIA,Female,Pop,80s,1980,1
+387,Taylor Swift,BLANK SPACE,Female,Pop,10s,2010,1
+388,Vertical Horizon,EVERYTHING YOU WANT,Duo/Group,Rock,00s,2000,1
+389,Lionel Richie,HELLO,Male,R&B,80s,1980,1
+390,Celine Dion,IT'S ALL COMING BACK TO ME NOW,Female,Pop,90s,1990,1
+391,Tears For Fears,SHOUT,Duo/Group,Rock,80s,1980,1
+392,Celine Dion,THE POWER OF LOVE,Female,Pop,90s,1990,1
+393,The Association,WINDY,Duo/Group,Pop,60s,1960,1
+394,Melanie,BRAND NEW KEY,Female,Pop,70s,1970,1
+395,Sia Featuring Sean Paul,CHEAP THRILLS,Female,Pop,10s,2010,1
+396,fun.,SOME NIGHTS,Duo/Group,Rock,10s,2010,1
+397,Richard Marx,RIGHT HERE WAITING,Male,Pop,80s,1980,1
+398,Daniel Powter,BAD DAY,Male,Pop,00s,2000,1
+399,Amy Grant,BABY BABY,Female,Pop,90s,1990,1
+400,John Lennon,WOMAN,Male,Rock,80s,1980,1
+401,Sam Smith,STAY WITH ME,Male,Pop,10s,2010,1
+402,Rihanna Featuring Jay-Z,UMBRELLA,Female,R&B,00s,2000,1
+403,The Young Rascals,GROOVIN',Duo/Group,Rock,60s,1960,1
+404,Macklemore & Ryan Lewis Featuring Ray Dalton,CAN'T HOLD US,Duo/Group,Hip-Hop/Rap,10s,2010,1
+405,Janet Jackson,THAT'S THE WAY LOVE GOES,Female,R&B,90s,1990,1
+406,The Fray,HOW TO SAVE A LIFE,Duo/Group,Rock,00s,2000,1
+407,Guy Mitchell,HEARTACHES BY THE NUMBER,Male,Pop,50s,1950,1
+408,Styx,BABE,Duo/Group,Rock,70s,1970,1
+409,The Temptations,I CAN'T GET NEXT TO YOU,Duo/Group,R&B,60s,1960,1
+410,Yes,OWNER OF A LONELY HEART,Duo/Group,Rock,80s,1980,1
+411,702,WHERE MY GIRLS AT?,Duo/Group,R&B,90s,1990,1
+412,The Singing Nun (Soeur Sourire),DOMINIQUE,Female,Pop,60s,1960,1
+413,Ciara Featuring Missy Elliott,1  2 STEP,Female,R&B,00s,2000,1
+414,The Doors,LIGHT MY FIRE,Duo/Group,Rock,60s,1960,1
+415,Ace Of Base,ALL THAT SHE WANTS,Duo/Group,Pop,90s,1990,1
+416,Ferrante & Teicher,EXODUS,Duo/Group,Pop,60s,1960,1
+417,Marty Robbins,EL PASO,Male,Country,50s,1950,1
+418,Lady Gaga,BAD ROMANCE,Female,Pop,00s,2000,1
+419,Starland Vocal Band,AFTERNOON DELIGHT,Duo/Group,Pop,70s,1970,1
+420,Madonna,JUSTIFY MY LOVE,Female,Pop,90s,1990,1
+421,Jon Bon Jovi,BLAZE OF GLORY,Male,Rock,90s,1990,1
+422,KC And The Sunshine Band,PLEASE DON'T GO,Duo/Group,Pop,80s,1980,1
+423,The Everly Brothers,BIRD DOG,Duo/Group,Pop,50s,1950,1
+424,Michael Bolton,HOW AM I SUPPOSED TO LIVE WITHOUT YOU,Male,Pop,90s,1990,1
+425,The Beatles,LET IT BE,Duo/Group,Rock,70s,1970,1
+426,Sir Mix-A-Lot,BABY GOT BACK,Male,Hip-Hop/Rap,90s,1990,1
+427,Tommy Roe,DIZZY,Male,Pop,60s,1960,1
+428,Debbie Gibson,LOST IN YOUR EYES,Female,Pop,80s,1980,1
+429,The Chiffons,HE'S SO FINE,Duo/Group,R&B,60s,1960,1
+430,Mariah Carey,SOMEDAY,Female,R&B,90s,1990,1
+431,INXS,NEED YOU TONIGHT,Duo/Group,Rock,80s,1980,1
+432,Silver Convention,GET UP AND BOOGIE (THAT'S RIGHT),Duo/Group,Dance/Electronic,70s,1970,1
+433,Quarterflash,HARDEN MY HEART,Duo/Group,Rock,80s,1980,1
+434,The Box Tops,THE LETTER,Duo/Group,Rock,60s,1960,1
+435,Mariah Carey,HERO,Female,R&B,90s,1990,1
+436,Gregory Abbott,SHAKE YOU DOWN,Male,R&B,80s,1980,1
+437,Freddy Fender,BEFORE THE NEXT TEARDROP FALLS,Male,Country,70s,1970,1
+438,Bee Gees,HOW CAN YOU MEND A BROKEN HEART,Duo/Group,Pop,70s,1970,1
+439,Lisa Loeb & Nine Stories,STAY (I MISSED YOU),Duo/Group,Pop,90s,1990,1
+440,Diana Ross,TOUCH ME IN THE MORNING,Female,R&B,70s,1970,1
+441,Justin Timberlake,SEXYBACK,Male,Pop,00s,2000,1
+442,Starship,WE BUILT THIS CITY,Duo/Group,Rock,80s,1980,1
+443,Carl Douglas,KUNG FU FIGHTING,Male,Pop,70s,1970,1
+444,Montell Jordan,THIS IS HOW WE DO IT,Male,R&B,90s,1990,1
+445,Huey Lewis & The News,STUCK WITH YOU,Duo/Group,Pop,80s,1980,1
+446,Nilsson,WITHOUT YOU,Male,Pop,70s,1970,1
+447,Eddie Murphy,PARTY ALL THE TIME,Male,R&B,80s,1980,1
+448,The Turtles,HAPPY TOGETHER,Duo/Group,Pop,60s,1960,1
+449,Rick Astley,NEVER GONNA GIVE YOU UP,Male,Pop,80s,1980,1
+450,Color Me Badd,I ADORE MI AMOR,Duo/Group,R&B,90s,1990,1
+451,Jason Mraz,I'M YOURS,Male,Pop,00s,2000,1
+452,The Steve Miller Band,THE JOKER,Duo/Group,Rock,70s,1970,1
+453,The Spinners,THE RUBBERBAND MAN,Duo/Group,R&B,70s,1970,1
+454,Guns N' Roses,SWEET CHILD O' MINE,Duo/Group,Rock,80s,1980,1
+455,The Fleetwoods,COME SOFTLY TO ME,Duo/Group,Pop,50s,1950,1
+456,Whitney Houston,ALL THE MAN THAT I NEED,Female,R&B,90s,1990,1
+457,Ritchie Valens,DONNA,Male,Pop,50s,1950,1
+458,Nancy Sinatra & Frank Sinatra,SOMETHIN' STUPID,Male/Female,Pop,60s,1960,1
+459,The Osmonds,ONE BAD APPLE,Duo/Group,Pop,70s,1970,1
+460,En Vogue,DON'T LET GO (LOVE),Duo/Group,R&B,90s,1990,1
+461,Technotronic Featuring Felly,PUMP UP THE JAM,Duo/Group,Dance/Electronic,90s,1990,1
+462,Paul Young,EVERYTIME YOU GO AWAY,Male,Pop,80s,1980,1
+463,Jennifer Lopez Featuring Ja Rule,AIN'T IT FUNNY,Female,Pop,00s,2000,1
+464,Linda Ronstadt (Featuring Aaron Neville),DON'T KNOW MUCH,Female,Pop,80s,1980,1
+465,Sean Paul,TEMPERATURE,Male,Hip-Hop/Rap,00s,2000,1
+466,Herb Alpert,THIS GUY'S IN LOVE WITH YOU,Male,Jazz,60s,1960,1
+467,George Harrison,GOT MY MIND SET ON YOU,Male,Rock,80s,1980,1
+468,Dolly Parton,9 TO 5,Female,Country,80s,1980,1
+469,Mark Dinning,TEEN ANGEL,Male,Pop,60s,1960,1
+470,Damn Yankees,HIGH ENOUGH,Duo/Group,Rock,90s,1990,1
+471,Rihanna,DISTURBIA,Female,Pop,00s,2000,1
+472,Falco,ROCK ME AMADEUS,Male,Pop,80s,1980,1
+473,Madonna,LIKE A PRAYER,Female,Pop,80s,1980,1
+474,Eddie Rabbitt,I LOVE A RAINY NIGHT,Male,Country,80s,1980,1
+475,Billy Paul,ME AND MRS. JONES,Male,R&B,70s,1970,1
+476,Maxi Priest,CLOSE TO YOU,Male,Pop,90s,1990,1
+477,Janet,ALL FOR YOU,Female,R&B,00s,2000,1
+478,Dion,RUNAROUND SUE,Male,Rock,60s,1960,1
+479,Four Tops,I CAN'T HELP MYSELF (SUGAR PIE HONEY BUNCH),Duo/Group,R&B,60s,1960,1
+480,Toto,ROSANNA,Duo/Group,Pop,80s,1980,1
+481,The 4 Seasons,SHERRY,Duo/Group,Pop,60s,1960,1
+482,Simple Minds,DON'T YOU (FORGET ABOUT ME),Duo/Group,Pop,80s,1980,1
+483,Bobby Vinton,THERE! I'VE SAID IT AGAIN,Male,Pop,60s,1960,1
+484,Mr. Mister,KYRIE,Duo/Group,Rock,80s,1980,1
+485,Katy Perry,ROAR,Female,Pop,10s,2010,1
+486,Paul Anka,PUT YOUR HEAD ON MY SHOULDER,Male,Pop,50s,1950,1
+487,Donna Summer,MACARTHUR PARK,Female,Dance/Electronic,70s,1970,1
+488,Culture Club,KARMA CHAMELEON,Duo/Group,Pop,80s,1980,1
+489,The Righteous Brothers,YOU'VE LOST THAT LOVIN' FEELIN',Duo/Group,Pop,60s,1960,1
+490,The Drifters,SAVE THE LAST DANCE FOR ME,Duo/Group,R&B,60s,1960,1
+491,Prince And The Revolution,KISS,Duo/Group,R&B,80s,1980,1
+492,Barbra Streisand & Neil Diamond,YOU DON'T BRING ME FLOWERS,Male/Female,Pop,70s,1970,1
+493,Mariah Carey,ALWAYS BE MY BABY,Female,R&B,90s,1990,1
+494,MAGIC!,RUDE,Duo/Group,Pop,10s,2010,1
+495,John Parr,ST. ELMO'S FIRE (MAN IN MOTION),Male,Rock,80s,1980,1
+496,Ben E. King,STAND BY ME,Male,R&B,60s,1960,1
+497,Wilson Phillips,RELEASE ME,Duo/Group,Pop,90s,1990,1
+498,Marilyn McCoo & Billy Davis  Jr.,YOU DON'T HAVE TO BE A STAR (TO BE IN MY SHOW),Male/Female,R&B,70s,1970,1
+499,Katy Perry,I KISSED A GIRL,Female,Pop,00s,2000,1
+500,Maroon 5,SUGAR,Duo/Group,Pop,10s,2010,1
+501,Whitney Houston,I'M YOUR BABY TONIGHT,Female,R&B,90s,1990,1
+502,Elton John,ISLAND GIRL,Male,Pop,70s,1970,1
+503,Paula Abdul,COLD HEARTED,Female,Pop,80s,1980,1
+504,Silver Convention,FLY  ROBIN  FLY,Duo/Group,R&B,70s,1970,1
+505,New Kids On The Block,STEP BY STEP,Duo/Group,Pop,90s,1990,1
+506,Janet,TOGETHER AGAIN,Female,R&B,90s,1990,1
+507,Bobby Brown,MY PREROGATIVE,Male,R&B,80s,1980,1
+508,Dionne Warwicke & Spinners,THEN CAME YOU,Female/Duo/Group,R&B,70s,1970,1
+509,Whitney Houston,SO EMOTIONAL,Female,R&B,80s,1980,1
+510,Floyd Cramer,LAST DATE,Male,Pop,60s,1960,1
+511,Jason Derulo,WHATCHA SAY,Male,R&B,00s,2000,1
+512,Alannah Myles,BLACK VELVET,Female,Rock,90s,1990,1
+513,matchbox twenty,UNWELL,Duo/Group,Rock,00s,2000,1
+514,Daryl Hall John Oates,OUT OF TOUCH,Duo/Group,Pop,80s,1980,1
+515,Lawrence Welk And His Orchestra,CALCUTTA,Male,Pop,60s,1960,1
+516,Bee Gees,JIVE TALKIN',Duo/Group,Pop,70s,1970,1
+517,Queen,BOHEMIAN RHAPSODY,Duo/Group,Rock,90s,1990,1
+518,Bruce Hornsby & The Range,THE WAY IT IS,Duo/Group,Rock,80s,1980,1
+519,Minnie Riperton,LOVIN' YOU,Female,Pop,70s,1970,1
+520,Whitney Houston,HOW WILL I KNOW,Female,R&B,80s,1980,1
+521,3 Doors Down,HERE WITHOUT YOU,Duo/Group,Rock,00s,2000,1
+522,Tracy Chapman,GIVE ME ONE REASON,Female,Pop,90s,1990,1
+523,Silk,FREAK ME,Duo/Group,R&B,90s,1990,1
+524,Maroon 5 Featuring Wiz Khalifa,PAYPHONE,Duo/Group,Pop,10s,2010,1
+525,Katy Perry,HOT N COLD,Female,Pop,00s,2000,1
+526,Lil Jon & The East Side Boyz Featuring Ying Yang Twins,GET LOW,Duo/Group,Hip-Hop/Rap,00s,2000,1
+527,T-Pain Featuring Yung Joc,BUY U A DRANK (SHAWTY SNAPPIN'),Male,Hip-Hop/Rap,00s,2000,1
+528,Paul and Paula,HEY PAULA,Duo/Group,Pop,60s,1960,1
+529,Rick Springfield,DON'T TALK TO STRANGERS,Male,Pop,80s,1980,1
+530,Chingy,RIGHT THURR,Male,Hip-Hop/Rap,00s,2000,1
+531,Stevie Wonder,PART-TIME LOVER,Male,R&B,80s,1980,1
+532,Bell Biv DeVoe,DO ME!,Duo/Group,R&B,90s,1990,1
+533,Charlie Rich,THE MOST BEAUTIFUL GIRL,Male,Country,70s,1970,1
+534,Helen Reddy,DELTA DAWN,Female,Pop,70s,1970,1
+535,Gloria Estefan & Miami Sound Machine,ANYTHING FOR YOU,Duo/Group,Pop,80s,1980,1
+536,B.o.B Featuring Hayley Williams,AIRPLANES,Male,Hip-Hop/Rap,10s,2010,1
+537,Whitesnake,HERE I GO AGAIN,Duo/Group,Rock,80s,1980,1
+538,Marc Anthony,I NEED TO KNOW,Male,Pop,90s,1990,1
+539,Toni Basil,MICKEY,Female,Pop,80s,1980,1
+540,Kris Kross,JUMP,Duo/Group,Hip-Hop/Rap,90s,1990,1
+541,Vicki Lawrence,THE NIGHT THE LIGHTS WENT OUT IN GEORGIA,Female,Pop,70s,1970,1
+542,Keith Sweat Featuring Athena Cage,NOBODY,Male,R&B,90s,1990,1
+543,Taylor Swift,LOVE STORY,Female,Country,00s,2000,1
+544,Herb Alpert,RISE,Male,Jazz,70s,1970,1
+545,Brian McKnight,BACK AT ONE,Male,R&B,90s,1990,1
+546,Chubby Checker,PONY TIME,Male,R&B,60s,1960,1
+547,Dorothy Moore,MISTY BLUE,Female,R&B,70s,1970,1
+548,Milli Vanilli,BLAME IT ON THE RAIN,Duo/Group,Pop,80s,1980,1
+549,America,A HORSE WITH NO NAME,Duo/Group,Rock,70s,1970,1
+550,R. Kelly,IGNITION,Male,R&B,00s,2000,1
+551,Mariah Carey,I DON'T WANNA CRY,Female,R&B,90s,1990,1
+552,Billy Ocean,GET OUTTA MY DREAMS  GET INTO MY CAR,Male,R&B,80s,1980,1
+553,Patti Austin With James Ingram,BABY  COME TO ME,Male/Female,R&B,80s,1980,1
+554,Eurythmics,SWEET DREAMS (ARE MADE OF THIS),Duo/Group,Pop,80s,1980,1
+555,Cardi B,BODAK YELLOW (MONEY MOVES),Female,Hip-Hop/Rap,10s,2010,1
+556,Joe,I WANNA KNOW,Male,R&B,00s,2000,1
+557,Christina Aguilera,GENIE IN A BOTTLE,Female,Pop,90s,1990,1
+558,Silento,WATCH ME,Male,Hip-Hop/Rap,10s,2010,1
+559,The Supremes,BABY LOVE,Duo/Group,R&B,60s,1960,1
+560,Justin Timberlake,CAN'T STOP THE FEELING!,Male,Pop,10s,2010,1
+561,OMI,CHEERLEADER,Male,Pop,10s,2010,1
+562,Blondie,THE TIDE IS HIGH,Duo/Group,Pop,80s,1980,1
+563,Santo & Johnny,SLEEP WALK,Duo/Group,Pop,50s,1950,1
+564,Eric Clapton,LAY DOWN SALLY,Male,Rock,70s,1970,1
+565,Peter  Paul & Mary,LEAVING ON A JET PLANE,Duo/Group,Rock,60s,1960,1
+566,Michael Sembello,MANIAC,Male,Pop,80s,1980,1
+567,Kelly Clarkson,STRONGER (WHAT DOESN'T KILL YOU),Female,Pop,10s,2010,1
+568,Johnny Nash,I CAN SEE CLEARLY NOW,Male,Pop,70s,1970,1
+569,Shelley Fabares,JOHNNY ANGEL,Female,Pop,60s,1960,1
+570,Mark Morrison,RETURN OF THE MACK,Male,R&B,90s,1990,1
+571,Bee Gees,TOO MUCH HEAVEN,Duo/Group,Pop,70s,1970,1
+572,Lonestar,AMAZED,Duo/Group,Country,00s,2000,1
+573,Akon Featuring Eminem,SMACK THAT,Male,R&B,00s,2000,1
+574,Smokey Robinson & The Miracles,THE TEARS OF A CLOWN,Male/Duo/Group,R&B,70s,1970,1
+575,Sara Bareilles,LOVE SONG,Female,Pop,00s,2000,1
+576,Glenn Medeiros Featuring Bobby Brown,SHE AIN'T WORTH IT,Male,R&B,90s,1990,1
+577,Smokey Robinson,BEING WITH YOU,Male,R&B,80s,1980,1
+578,Justin Bieber,WHAT DO YOU MEAN?,Male,Pop,10s,2010,1
+579,Madonna,PAPA DON'T PREACH,Female,Pop,80s,1980,1
+580,Connie Francis,EVERYBODY'S SOMEBODY'S FOOL,Female,Pop,60s,1960,1
+581,Spice Girls,WANNABE,Duo/Group,Pop,90s,1990,1
+582,The Miracles,LOVE MACHINE (PART 1),Duo/Group,R&B,70s,1970,1
+583,David Bowie,LET'S DANCE,Male,Rock,80s,1980,1
+584,Grover Washington  Jr. (With Bill Withers),JUST THE TWO OF US,Male,R&B,80s,1980,1
+585,The Sylvers,BOOGIE FEVER,Duo/Group,R&B,70s,1970,1
+586,The Supremes,WHERE DID OUR LOVE GO,Duo/Group,R&B,60s,1960,1
+587,Tiffany,COULD'VE BEEN,Female,Pop,80s,1980,1
+588,Nick Gilder,HOT CHILD IN THE CITY,Male,Rock,70s,1970,1
+589,Bon Jovi,ALWAYS,Duo/Group,Rock,90s,1990,1
+590,Bob Seger,SHAKEDOWN,Male,Rock,80s,1980,1
+591,Maxine Nightingale,RIGHT BACK WHERE WE STARTED FROM,Female,Dance/Electronic,70s,1970,1
+592,Jim Croce,TIME IN A BOTTLE,Male,Rock,70s,1970,1
+593,Petula Clark,DOWNTOWN,Female,Pop,60s,1960,1
+594,Leo Sayer,YOU MAKE ME FEEL LIKE DANCING,Male,Pop,70s,1970,1
+595,The Elegants,LITTLE STAR,Duo/Group,Pop,50s,1950,1
+596,Bobby Vinton,BLUE VELVET,Male,Pop,60s,1960,1
+597,The Escape Club,WILD  WILD WEST,Duo/Group,Pop,80s,1980,1
+598,The Rolling Stones,START ME UP,Duo/Group,Rock,80s,1980,1
+599,matchbox twenty,BENT,Duo/Group,Rock,00s,2000,1
+600,a-ha,TAKE ON ME,Duo/Group,Pop,80s,1980,1

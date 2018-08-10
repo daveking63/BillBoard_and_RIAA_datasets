@@ -1,0 +1,101 @@
+﻿Rank,Artist,LeadArtist,Artist Type,Gender,Heritage,TopSong,Year,Decade,Genre,Num1s,Top10s,Top100s
+1,Chubby Checker,Chubby Checker,Single,Male,Black,The Twist,1960,1960, R&B,2,7,32
+2,Santana|Rob Thomas,Santana,Group,Male,Hispanic,Smooth,1999,1990, Rock,2,6,24
+3,Bobby Darin,Bobby Darin,Single,Male,Anglo,Mack The Knife,1959,1950, Pop,1,10,40
+4,Mark Ronson|Bruno Mars,Bruno Mars,Duo,Male,Hispanic,Uptown Funk!,2015,2010, Pop,7,15,22
+5,LeAnn Rimes,LeAnn Rimes,Single,Female,Anglo,How Do I Live,1997,1990, Country,1,12,0
+6,LMFAO|Lauren Bennett|GoonRock,LMFAO,Group,Mixed,Black,Party Rock Anthem,2011,2010, Dance/Electronic,2,2,8
+7,The Black Eyed Peas,The Black Eyed Peas,Group,Mixed,Black,I Gotta Feeling,2009,2000, Pop,3,10,16
+8,Los Del Rio,Los Del Rio,Duo,Male,Hispanic,Macarena (Bayside Boys Mix),1996,1990, Latin,1,1,3
+9,Ed Sheeran,Ed Sheeran,Single,Male,Anglo,Shape Of You,2017,2010, Pop,2,6,29
+10,Olivia Newton-John,Olivia Newton-John,Single,Female,Anglo,Physical,1981,1980, Pop,5,15,38
+11,Debby Boone,Debby Boone,Single,Female,Anglo,You Light Up My Life,1977,1970, Country,1,1,3
+12,The Beatles,The Beatles,Group,Male,Anglo,Hey Jude,1968,1960, Rock,20,34,71
+13,The Chainsmokers|Halsey,The Chainsmokers,Trio,Male,Anglo,Closer,2016,2010, Dance/Electronic,1,5,13
+14,Mariah Carey,Mariah Carey,Single,Female,Mixed,We Belong Together,2005,2000, R&B,18,28,48
+15,Toni Braxton,Toni Braxton,Single,Female,Black,Un-break My Heart,1996,1990, R&B,2,6,13
+16,Usher|Lil Jon|Ludacris,Ludacris,Trio,Male,Black,Yeah!,2004,2000, R&B,5,18,56
+17,Kim Carnes,Kim Carnes,Single,Female,Anglo,Bette Davis Eyes,1981,1980, Pop,1,3,19
+18,Diana Ross|Lionel Richie,Diana Ross,Duo,Mixed,Black,Endless Love,1981,1980, R&B,6,12,40
+19,Rod Stewart,Rod Stewart,Single,Male,Anglo,Tonight's The Night (Gonna Be Alright),1976,1970, Rock,4,16,52
+20,Jewel,Jewel,Single,Female,Anglo,Foolish Games/you Were Meant For Me,1997,1990, Pop,2,8,0
+21,Bryan Adams,Bryan Adams,Single,Male,Anglo,(Everything I Do) I Do It For You,1991,1990, Pop,4,11,25
+22,Boyz II Men,Boyz II Men,Group,Male,Black,I'll Make Love To You,1994,1990, R&B,5,10,18
+23,Percy Faith|His Orchestra,Percy Faith,Group,Mixed,Anglo,The Theme From A Summer Place,1960,1960, Pop,1,1,2
+24,Chic,Chic,Group,Mixed,Mixed,Le Freak,1978,1970, Dance/Electronic,2,4,9
+25,Bee Gees,Bee Gees,Trio,Male,Anglo,How Deep Is Your Love,1977,1970, Pop,9,15,43
+26,Survivor,Survivor,Group,Male,Anglo,Eye Of The Tiger,1982,1980, Rock,1,5,18
+27,Rihanna|Calvin Harris,Rihanna,Duo,Mixed,Black,We Found Love,2011,2010, Pop,14,31,61
+28,Flo Rida|T-Pain,T-Pain,Duo,Male,Black,Low,2008,2000, Hip-Hop/Rap,3,15,46
+29,Andy Gibb,Andy Gibb,Single,Male,Anglo,I Just Want To Be Your Everything,1977,1970, Pop,3,6,10
+30,Next,Next,Trio,Male,Black,Too Close,1998,1990, R&B,1,2,5
+31,The Police,The Police,Group,Male,Anglo,Every Breath You Take,1983,1980, Rock,1,6,13
+32,Gotye|Kimbra,Gotye,Duo,Mixed,Anglo,Somebody That I Used To Know,2012,2010, Rock,1,1,2
+33,Luis Fonsi|Daddy Yankee|Justin Bieber,Justin Bieber,Trio,Male,Mixed,Despacito,2017,2010, Latin,5,14,70
+34,Irene Cara,Irene Cara,Single,Female,Mixed,Flashdance...what A Feeling,1983,1980, Pop,1,3,8
+35,Adele,Adele,Single,Female,Anglo,Rolling In The Deep,2011,2010, Pop,4,6,13
+36,Bobby Lewis,Bobby Lewis,Single,Male,Black,Tossin' And Turnin',1961,1960, R&B,1,2,4
+37,Johnny Horton,Johnny Horton,Single,Male,Anglo,The Battle Of New Orleans,1959,1950, Rock,1,3,8
+38,Mariah Carey|Boyz II Men,Mariah Carey,Group,Mixed,Mixed,One Sweet Day,1995,1990, R&B,18,28,48
+39,Savage Garden,Savage Garden,Duo,Male,Anglo,Truly Madly Deeply,1998,1990, Pop,2,3,6
+40,Wings|Paul McCartney,Paul McCartney,Group,Male,Anglo,Silly Love Songs,1976,1970, Rock,9,23,46
+41,Marvin Gaye,Marvin Gaye,Single,Male,Black,Let's Get It On,1973,1970, R&B,3,18,56
+42,Bee Gees,Bee Gees,Trio,Male,Anglo,Night Fever,1978,1970, Dance/Electronic,9,15,43
+43,Queen,Queen,Group,Male,Anglo,Another One Bites The Dust,1980,1980, Rock,2,4,24
+44,Paul McCartney|Michael Jackson,Michael Jackson,Duo,Male,Mixed,Say Say Say,1983,1980, Pop,13,30,51
+45,Nickelback,Nickelback,Group,Male,Anglo,How You Remind Me,2001,2000, Rock,1,6,19
+46,Dawn|Tony Orlando,Tony Orlando,Group,Mixed,Mixed,Tie A Yellow Ribbon Round The Ole Oak Tree,1973,1970, Pop,2,0,0
+47,Tommy Edwards,Tommy Edwards,Single,Male,Black,It's All In The Game,1958,1950, R&B,1,1,14
+48,The Beatles,The Beatles,Group,Male,Anglo,I Want To Hold Your Hand,1964,1960, Rock,20,34,71
+49,Andy Gibb,Andy Gibb,Single,Male,Anglo,Shadow Dancing,1978,1970, Pop,3,6,10
+50,Carly Rae Jepsen,Carly Rae Jepsen,Single,Female,Anglo,Call Me Maybe,2012,2010, Pop,1,2,6
+51,Robin Thicke|T.I.|Pharrell Williams,Pharrell Williams,Trio,Male,Mixed,Blurred Lines,2013,2010, R&B,4,7,19
+52,Elton John,Elton John,Single,Male,Anglo,Candle In The Wind 1997/Something About The Way You Look Tonight,1997,1990, Pop,9,27,67
+53,Alicia Keys,Alicia Keys,Single,Female,Black,No One,2007,2000, R&B,4,9,24
+54,Whitney Houston,Whitney Houston,Single,Female,Black,I Will Always Love You,1992,1990, R&B,11,23,39
+55,Boyz II Men,Boyz II Men,Group,Male,Black,End Of The Road,1992,1990, R&B,5,10,18
+56,The Black Eyed Peas,The Black Eyed Peas,Group,Male,Black,Boom Boom Pow,2009,2000, Pop,3,10,16
+57,Blondie,Blondie,Single,Male,Anglo,Call Me,1980,1980, Rock,4,4,10
+58,Mario,Mario,Single,Male,Black,Let Me Love You,2005,2000, R&B,1,2,8
+59,Bee Gees,Bee Gees,Trio,Male,Anglo,Stayin' Alive,1978,1970, Dance/Electronic,9,15,43
+60,Kenny Rogers,Kenny Rogers,Single,Male,Anglo,Lady,1980,1980, Country,2,11,42
+61,Kesha,Kesha,Single,Female,Anglo,Tik Tok,2010,2010, Pop,3,10,22
+62,The Monkees,The Monkees,Group,Male,Anglo,I'm A Believer,1966,1960, Pop,3,6,20
+63,Kanye West|Jamie Foxx,Kanye West,Duo,Male,Black,Gold Digger,2005,2000, Hip-Hop/Rap,4,16,92
+64,Timbaland|OneRepublic,OneRepublic,Group,Male,Anglo,Apologize,2007,2000, Pop,3,13,0
+65,Ace Of Base,Ace Of Base,Group,Mixed,Anglo,The Sign,1994,1990, Pop,1,4,8
+66,The J. Geils Band,The J. Geils Band,Group,Male,Anglo,Centerfold,1982,1980, Rock,1,2,17
+67,Meghan Trainor,Meghan Trainor,Single,Female,Anglo,All About That Bass,2014,2010, Pop,1,4,9
+68,John Lennon,John Lennon,Single,Male,Anglo,(Just Like) Starting Over,1980,1980, Rock,2,8,17
+69,Lorde,Lorde,Single,Male,Anglo,Royals,2013,2010, Rock,1,2,8
+70,Brandy|Monica,Monica,Duo,Female,Black,The Boy Is Mine,1998,1990, R&B,3,8,16
+71,Stevie B,Stevie B,Single,Male,Hispanic,Because I Love You (The Postman Song),1990,1990, Pop,1,1,11
+72,Joan Jett|the Blackhearts,Joan Jett,Group,Mixed,Anglo,I Love Rock 'n Roll,1982,1980, Rock,2,8,0
+73,The 5th Dimension,The 5th Dimension,Group,Mixed,Black,Aquarius/let The Sunshine In,1969,1960, Pop,2,7,29
+74,Tag Team,Tag Team,Duo,Male,Black,Whoomp! (There It Is),1993,1990, Hip-Hop/Rap,1,3,0
+75,Maroon 5|Christina Aguilera,Maroon 5,Mixed,Mixed,Mixed,Moves Like Jagger,2011,2010, Pop,3,14,29
+76,Paul McCartney|Stevie Wonder,Stevie Wonder,Duo,Male,Mixed,Ebony And Ivory,1982,1980, Pop,10,28,63
+77,Paula Abdul,Paula Abdul,Single,Female,Anglo,Rush Rush,1991,1990, Pop,6,8,15
+78,Dionne|Friends,Dionne,Group,Female,Black,That's What Friends Are For,1986,1980, R&B,6,12,40
+79,Pharrell Williams,Pharrell Williams,Single,Male,Black,Happy,2014,2010, R&B,4,7,19
+80,Diana Ross,Diana Ross,Single,Female,Black,Upside Down,1980,1980, Dance/Electronic,6,12,40
+81,The Archies,The Archies,Group,Mixed,Anglo,Sugar Sugar,1969,1960, Pop,1,2,6
+82,Bruno Mars,Bruno Mars,Single,Male,Hispanic,Just The Way You Are,2010,2010, Pop,7,15,22
+83,Nelly|Kelly Rowland,Nelly,Duo,Female,Black,Dilemma,2002,2000, Hip-Hop/Rap,4,14,36
+84,Marvin Gaye,Marvin Gaye,Single,Male,Black,I Heard It Through The Grapevine,1968,1960, R&B,3,18,56
+85,Shania Twain,Shania Twain,Single,Female,Anglo,You're Still The One,1998,1990, Country,3,18,0
+86,Michael Jackson,Michael Jackson,Single,Male,Black,Billie Jean,1983,1980, R&B,13,30,51
+87,Donna Summer,Donna Summer,Single,Female,Black,Hot Stuff,1979,1970, Dance/Electronic,4,14,32
+88,Post Malone|21 Savage,Post Malone,Duo,Male,Mixed,Rockstar,2017,2010, Hip-Hop/Rap,2,4,26
+89,Coolio|L.V.,Coolio,Duo,Male,Black,Gangsta's Paradise,1995,1990, Hip-Hop/Rap,1,3,6
+90,The Steve Miller Band,The Steve Miller Band,Group,Male,Mixed,Abracadabra,1982,1980, Rock,3,5,19
+91,Ed Sheeran,Ed Sheeran,Single,Male,Anglo,Perfect,2017,2010, Pop,2,6,29
+92,Carly Simon,Carly Simon,Single,Female,Anglo,You're So Vain,1973,1970, Pop,1,5,24
+93,Wild Cherry,Wild Cherry,Single,Male,Anglo,Play That Funky Music,1976,1970, R&B,1,1,5
+94,Lionel Richie,Lionel Richie,Single,Male,Black,Say You Say Me,1985,1980, R&B,5,13,20
+95,The Knack,The Knack,Group,Male,Anglo,My Sharona,1979,1970, Rock,1,1,6
+96,Lionel Richie,Lionel Richie,Single,Male,Black,All Night Long (All Night),1983,1980, R&B,5,13,20
+97,Sinead O'Connor,Sinead O'Connor,Single,Female,Anglo,Nothing Compares 2 U,1990,1990, Rock,3,18,0
+98,All-4-One,All-4-One,Group,Male,Black,I Swear,1994,1990, R&B,1,3,5
+99,Mary J. Blige,Mary J. Blige,Single,Female,Black,Family Affair,2001,2000, R&B,1,6,40
+100,Foreigner,Foreigner,Group,Male,Anglo,Waiting For A Girl Like You,1981,1980, Rock,3,11,29
