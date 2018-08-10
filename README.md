@@ -14,7 +14,7 @@ Both sources provide an extensive set individual charts and reports tracking var
 <a href = "https://www.billboard.com/charts/hot-100-60th-anniversary"><b>Hot 100 60th Anniversary</b></a></li>
 </li>
 <li> RIAA:<br>
-<a href = https://www.riaa.com/gold-platinum/?tab_active=awards_by_artist#search_section"><b>Certifications by Artists and Albums</b>   </a>
+<a href = https://www.riaa.com/gold-platinum/?tab_active=awards_by_artist#search_section"><b>Certifications by Artists and Albums</b>   </a><br>
 <a href = "https://www.riaa.com/gold-platinum/?tab_active=awards_by_artist#search_section"><b>Top Albums</b></a>
 </li>
 </ul>
