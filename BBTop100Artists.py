@@ -1,4 +1,4 @@
-# Program to retrieve and store pages from Billboard for artists who
+# "Brute-force" program to retrieve and store pages from Billboard for artists who
 # have a song in the All-time Top 100 list
 
 import glob, os
