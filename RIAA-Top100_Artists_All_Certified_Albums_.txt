@@ -1,4 +1,4 @@
-Album_Id,Artist,ArtistRank,Title,HighestCert,MinCertUnits,CertLevel,CertDate,CertYear,CertMonth,H,Count
+Album_Id,Artist,ArtistRank,Title,HighestCert,MinCertUnits,CertLevel,CertDate,CertYear,CertMonth,ArtistType,Count
 1,THE BEATLES,1,THE BEATLES,19X Multi-Platinum,19.0,Diamond,6-Feb-01,2001,Feb,Group,1
 2,THE BEATLES,1,THE BEATLES 1967 - 1970,17X Multi-Platinum,17.0,Diamond,27-Aug-10,2010,Aug,Group,1
 3,THE BEATLES,1,THE BEATLES 1962 - 1966,15X Multi-Platinum,15.0,Diamond,6-Feb-01,2001,Feb,Group,1
