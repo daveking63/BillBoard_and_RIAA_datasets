@@ -42,11 +42,11 @@ To date, the end result is 5 csv files - 2 based on the Billboard charts and 3 o
 <li><b>RIAA-Top2507_Artists_Certified_Counts.txt</b> -- Based on all artists who have sold at least one gold album (.5 million units), includes fields for rank of the album, the artist or group, the certified number of units sold in millions, and the number of gold, platinum, multi-platinum and diamond albums the artist or group has sold.</li>
 </ul>
 
-<h3>Next Steps</3>
+<h3>Next Steps</h3>
 
 The combination of txt files will be used to:<br>
 
 <ol>
-<li>Illustrate the features and functions of "pandas" (see <a href='https://github.com/daveking63/Jupyter-iPython-Notebooks/blob/master/README.md'><i>Jupyter iPython Notebooks</i></a>) in one of my other repositories)</li>
-<li>subsequently used in another entry in this repository to highlight and summarize some of changes that have occurred in the music industry over the last 60 years.</li>
+<li>Illustrate the features and functions of "pandas" (see <a href='https://github.com/daveking63/Jupyter-iPython-Notebooks/blob/master/README.md'><i>Jupyter iPython Notebooks</i></a> in one of my other repositories)</li>
+<li>Highlight and summarize ((in a future entry in this repository) some of changes that have occurred in the music industry over the last 60 years.</li>
 </ol>
