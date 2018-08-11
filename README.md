@@ -48,5 +48,5 @@ The combination of txt files will be used to:<br>
 
 <ol>
 <li>Illustrate the features and functions of "pandas" (see <a href='https://github.com/daveking63/Jupyter-iPython-Notebooks/blob/master/README.md'><i>Jupyter iPython Notebooks</i></a> in one of my other repositories)</li>
-<li>Highlight and summarize ((in a future entry in this repository) some of changes that have occurred in the music industry over the last 60 years.</li>
+<li>Highlight and summarize (in a future entry in this repository) some of changes that have occurred in the music industry over the last 60 years.</li>
 </ol>
