@@ -1,4 +1,4 @@
-# BillBoard_and_RIAA_datasets
+# BillBoard-and-RIAA-datasets
 Recent data sets created by scraping key Billboard Charts and RIAA Gold &amp; Platinum Certifications Lists
 
 <h2>Introduction</h2>
@@ -11,11 +11,11 @@ Both sources provide an extensive set individual charts and reports tracking var
 
 <ul>
 <li> Billboard:<br>
-<a href = "https://www.billboard.com/charts/hot-100-60th-anniversary"><b>Hot 100 60th Anniversary</b></a></li>
+<a href = "https://www.billboard.com/charts/hot-100-60th-anniversary">Hot 100 60th Anniversary</a></li>
 </li>
 <li> RIAA:<br>
-<a href = https://www.riaa.com/gold-platinum/?tab_active=awards_by_artist#search_section"><b>Certifications by Artists and Albums</b>   </a><br>
-<a href = "https://www.riaa.com/gold-platinum/?tab_active=awards_by_artist#search_section"><b>Top Albums</b></a>
+<a href = https://www.riaa.com/gold-platinum/?tab_active=awards_by_artist#search_section">Certifications by Artists and Albums</a><br>
+<a href = "https://www.riaa.com/gold-platinum/?tab_active=awards_by_artist#search_section">Top Albums</a>
 </li>
 </ul>
 
