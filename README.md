@@ -44,7 +44,8 @@ To date, the end result is 5 csv files - 2 based on the Billboard charts and 3 o
 
 <h3>Next Steps</h3>
 
-For the time being, 
+
+For the time being, a combination of some of these files are used
 
 The combination of txt files will be used to:<br>
 
