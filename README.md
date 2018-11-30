@@ -47,8 +47,8 @@ To date, the end result is 5 csv files - 2 based on the Billboard charts and 3 o
 As an initial foray into the analysis of this data, I combined data from a couple of the txt files in order to:
 
 <ol>
- <li>Illustrate the features and functions of <i>pandas</i>, a Python package that is part of a large package called <i>SciPy</i> and that provides extensive data capabilities (like those associated with R).</li>
-<li>Highlight and summarize some of changes that have occurred in the music industry over the last 60 years.</li>
+ <li>Illustrate the features and functions of <i>pandas</i>, a Python package that is part of a large package called <i>SciPy</i> and that provides extensive capabilities for analyzing data housed in <i>dataframes</i> (similar to those provided by the programming language R).</li>
+<li>Highlight and summarize some of general changes that have occurred in the music industry over the last 60 years.</li>
 </ol>
 
-This discussion is couched in the form of a <a href='https://github.com/daveking63/Jupyter-iPython-Notebooks/blob/master/README.md'>Jupyter iPython notebook housed in one of my other repositories</a>.
+This discussion is provided in the form of a <a href='https://github.com/daveking63/Jupyter-iPython-Notebooks/blob/master/README.md'>Jupyter iPython notebook provide in one of my other repositories</a>.
