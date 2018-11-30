@@ -44,12 +44,11 @@ To date, the end result is 5 csv files - 2 based on the Billboard charts and 3 o
 
 <h3>Next Steps</h3>
 
-
-For the time being, a combination of some of these files are used
-
-The combination of txt files will be used to:<br>
+As an initial foray into the analysis of this data, I combined data from a couple of the txt files in order to:
 
 <ol>
-<li>Illustrate the features and functions of "pandas" (see <a href='https://github.com/daveking63/Jupyter-iPython-Notebooks/blob/master/README.md'><i>Jupyter iPython Notebooks</i></a> in one of my other repositories)</li>
-<li>Highlight and summarize (in a future entry in this repository) some of changes that have occurred in the music industry over the last 60 years.</li>
+ <li>Illustrate the features and functions of <i>pandas</i>, a Python package that is part of a large package called <i>SciPy</i> and that provides extensive data capabilities (like those associated with R).</li>
+<li>Highlight and summarize some of changes that have occurred in the music industry over the last 60 years.</li>
 </ol>
+
+This discussion is couched in the form of a <a href='https://github.com/daveking63/Jupyter-iPython-Notebooks/blob/master/README.md'>Jupyter iPython notebook housed in one of my other repositories</a>.
