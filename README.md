@@ -51,4 +51,4 @@ As an initial foray into the analysis of this data, I combined data from a coupl
 <li>Highlight and summarize some of general changes that have occurred in the music industry over the last 60 years.</li>
 </ol>
 
-This discussion is provided in the form of a <a href='https://github.com/daveking63/Jupyter-iPython-Notebooks/blob/master/README.md'>Jupyter iPython notebook provide in one of my other repositories</a>.
+This discussion is provided in the form of a <a href='https://github.com/daveking63/Jupyter-iPython-Notebooks'>Jupyter iPython notebook provide in one of my other repositories</a>.
